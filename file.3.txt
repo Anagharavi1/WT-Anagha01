@@ -1,0 +1,3 @@
+What happens if you remove the target attribute ? How does the behavior of the link change?
+Ans:-
+	When you remove the target attribute from the HTML code, the link will open in 	the same tab or windows as the current page. By removing the target attribute,you 	are essentially telling the browser to open the link in the same tab. 
