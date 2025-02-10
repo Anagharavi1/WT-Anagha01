@@ -1,0 +1,13 @@
+h1,h2{
+	color:green;
+	
+	border:double:
+	font: italic bold 40px/40px Georgia,serif;
+	}
+	p{
+	font-size:20px;
+	}
+footer{
+border:1 px solid #333;
+font-style:italic;
+}
