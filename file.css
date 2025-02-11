@@ -1,13 +1,19 @@
 h1,h2{
-	color:green;
-	
-	border:double:
-	font: italic bold 40px/40px Georgia,serif;
+	color:rgba(0,0,139,1);
+	font:  italic 40px/40px Georgia,serif;
 	}
 	p{
+	color:rgba(0,100,0,1);
+	font:italic small-caps bold
+	12px/30px Georgia ,serif;
 	font-size:20px;
 	}
 footer{
 border:1 px solid #333;
+font-size:18px;
 font-style:italic;
+}
+body{
+background-color: rgba(255,99,71,0.2);
+border:double;
 }
